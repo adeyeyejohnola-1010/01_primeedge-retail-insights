@@ -21,6 +21,7 @@ Post-Analysis Board → Where I summarized findings and recommendations
 Dashboard Interface → Where I visualized key metrics
 
 📈 Key Insights
+
 Revenue Concentration
 <img width="272" height="235" alt="6" src="https://github.com/user-attachments/assets/e987a30d-4909-4a34-b299-2bbd84683187" />
 
