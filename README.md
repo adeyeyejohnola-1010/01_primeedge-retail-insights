@@ -45,6 +45,7 @@ I found a performance gap between top-performing and underperforming sales repre
 
 Transaction Behavior
 Customer behavior is skewed toward smaller, frequent purchases rather than large one-time spending.
+
 Recommendations
 Based on my analysis, I recommend:
 Diversifying the customer base to reduce risk
