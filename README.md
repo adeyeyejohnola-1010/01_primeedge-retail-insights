@@ -1,5 +1,7 @@
 Overview
+
 In this project, I performed an end-to-end sales analysis using Excel, transforming raw transactional data into actionable insights and business recommendations.
+
 Objectives
 
 In this analysis, I aimed to:
@@ -9,6 +11,7 @@ Analyze sales trends over time
 Provide data-driven recommendations for business growth
 
 Project Structure
+
 Pre-Analysis Board → Where I defined objectives and analytical approach
 In-Analysis Board → Where I explored patterns and generated insights
 Post-Analysis Board → Where I summarized findings and recommendations
