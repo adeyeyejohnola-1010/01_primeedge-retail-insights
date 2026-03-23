@@ -46,10 +46,15 @@ Recommendations
 Based on my analysis, I recommend:
 
 Diversifying the customer base to reduce risk
+
 Supporting and training underperforming sales reps
+
 Expanding into low-performing regions
+
 Optimizing product offerings
+
 Leveraging seasonal trends for planning
+
 Strengthening customer retention strategies
 
 Conclusion
