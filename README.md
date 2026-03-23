@@ -15,6 +15,7 @@ Key Insights
 
 Revenue Concentration: I found that revenue is heavily dependent on a small number of customers and sales representatives.
 <img width="272" height="235" alt="6" src="https://github.com/user-attachments/assets/be1a9394-0a71-4957-8935-3919029149f6" />
+
 Regional Performance
 I observed strong performance in certain regions, while others present growth opportunities.
 
