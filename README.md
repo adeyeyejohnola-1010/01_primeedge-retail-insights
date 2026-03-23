@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 In this project, I performed an end-to-end sales analysis using Excel, transforming raw transactional data into actionable insights and business recommendations.
 
-Objectives
+**Objectives**
 
 In this analysis, I aimed to:
 Evaluate sales performance across regions, customers, and products
@@ -10,7 +10,7 @@ Identify top-performing and underperforming segments
 Analyze sales trends over time
 Provide data-driven recommendations for business growth
 
-Project Structure
+**Project Structure**
 
 Pre-Analysis Board → Where I defined objectives and analytical approach
 
@@ -23,28 +23,28 @@ Dashboard Interface → Where I visualized key metrics
 <img width="1328" height="550" alt="adeyeye 1 dashboard" src="https://github.com/user-attachments/assets/6e1220d4-653a-46dd-aee8-0932da514a38" />
 
 
-Key Insights
+**Key Insights**
 
-Revenue Concentration: I found that revenue is heavily dependent on a small number of customers and sales representatives.
+**Revenue Concentration:** I found that revenue is heavily dependent on a small number of customers and sales representatives.
 <img width="272" height="235" alt="6" src="https://github.com/user-attachments/assets/be1a9394-0a71-4957-8935-3919029149f6" />
 
-Regional Performance: I observed strong performance in certain regions, while others present growth opportunities.
+**Regional Performance:** I observed strong performance in certain regions, while others present growth opportunities.
 <img width="304" height="234" alt="Screenshot (164" src="https://github.com/user-attachments/assets/94e2d8cb-8fef-4fc4-812e-83f866742b17" />
 
-Product Analysis : I discovered that a few product categories dominate overall sales.
+**Product Analysis** : I discovered that a few product categories dominate overall sales.
 <img width="371" height="201" alt="Screenshot 5" src="https://github.com/user-attachments/assets/990820ad-72bf-4e4a-a685-134ecd0fcc17" />
 
-Sales Trends: I identified clear seasonal patterns with noticeable peaks and declines
+**Sales Trends**: I identified clear seasonal patterns with noticeable peaks and declines
 
 <img width="322" height="231" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/6e104cc4-8c10-4113-9877-6a5393456d73" />
 
 
-Sales Team Insights : I found a performance gap between top-performing and underperforming sales representatives.
+**Sales Team Insights** : I found a performance gap between top-performing and underperforming sales representatives.
 <img width="446" height="202" alt="Screenshot (163" src="https://github.com/user-attachments/assets/64648a6d-cbfa-47c0-a074-44097b116833" />
 
-Transaction Behavior : Customer behavior is skewed toward smaller, frequent purchases rather than large one-time spending.
+**Transaction Behavior** : Customer behavior is skewed toward smaller, frequent purchases rather than large one-time spending.
 
-Recommendations
+**Recommendations**
 
 Based on my analysis, I recommend:
 
@@ -60,7 +60,7 @@ Leveraging seasonal trends for planning
 
 Strengthening customer retention strategies
 
-Conclusion
+**Conclusion**
 
 Through this analysis, I identified that while the business performs well in key areas, it is overly dependent on a few major drivers.
 I believe that by diversifying revenue streams and making data-driven decisions, the business can achieve more stable and sustainable growth.
