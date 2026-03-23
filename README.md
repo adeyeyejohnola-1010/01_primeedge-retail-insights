@@ -31,8 +31,8 @@ Regional Performance
 
 I observed strong performance in certain regions, while others present growth opportunities.
 
-Product Analysis
-<img width="371" height="201" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ded20266-64d2-458b-9a29-260357da9659" />
+Product Analysis<img width="371" height="201" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ded20266-64d2-458b-9a29-260357da9659" />
+
 I discovered that a few product categories dominate overall sales.
 Sales Trends
 <img width="322" height="231" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/9f30d3ca-aded-42dc-8e0d-f96741b38388" />
