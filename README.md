@@ -29,7 +29,9 @@ Product Analysis : I discovered that a few product categories dominate overall s
 <img width="371" height="201" alt="Screenshot 5" src="https://github.com/user-attachments/assets/990820ad-72bf-4e4a-a685-134ecd0fcc17" />
 
 Sales Trends: I identified clear seasonal patterns with noticeable peaks and declines
+
 <img width="322" height="231" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/6e104cc4-8c10-4113-9877-6a5393456d73" />
+
 
 Sales Team Insights : I found a performance gap between top-performing and underperforming sales representatives.
 <img width="446" height="202" alt="Screenshot (163" src="https://github.com/user-attachments/assets/64648a6d-cbfa-47c0-a074-44097b116833" />
