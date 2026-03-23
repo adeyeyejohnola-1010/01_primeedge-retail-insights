@@ -30,7 +30,29 @@ Product Analysis : I discovered that a few product categories dominate overall s
 
 Sales Trends: I identified clear seasonal patterns with noticeable peaks and declines
 <img width="322" height="231" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/6e104cc4-8c10-4113-9877-6a5393456d73" />
+
 Sales Team Insights : I found a performance gap between top-performing and underperforming sales representatives.
+<img width="446" height="202" alt="Screenshot (163" src="https://github.com/user-attachments/assets/64648a6d-cbfa-47c0-a074-44097b116833" />
+
+Transaction Behavior : Customer behavior is skewed toward smaller, frequent purchases rather than large one-time spending.
+
+Recommendations
+
+Based on my analysis, I recommend:
+
+Diversifying the customer base to reduce risk
+Supporting and training underperforming sales reps
+Expanding into low-performing regions
+Optimizing product offerings
+Leveraging seasonal trends for planning
+Strengthening customer retention strategies
+
+Conclusion
+
+Through this analysis, I identified that while the business performs well in key areas, it is overly dependent on a few major drivers.
+I believe that by diversifying revenue streams and making data-driven decisions, the business can achieve more stable and sustainable growth.
+
+
 
 
 
