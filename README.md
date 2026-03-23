@@ -13,8 +13,11 @@ Provide data-driven recommendations for business growth
 Project Structure
 
 Pre-Analysis Board → Where I defined objectives and analytical approach
+
 In-Analysis Board → Where I explored patterns and generated insights
+
 Post-Analysis Board → Where I summarized findings and recommendations
+
 Dashboard Interface → Where I visualized key metrics
 
 <img width="1328" height="550" alt="adeyeye 1 dashboard" src="https://github.com/user-attachments/assets/6e1220d4-653a-46dd-aee8-0932da514a38" />
